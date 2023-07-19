@@ -1,0 +1,45 @@
+.similar-job-card {
+  background-color: #272727;
+  color: white;
+  font-family: Roboto;
+  padding: 20px;
+  margin-right: 20px;
+
+  height: 430px;
+  width: 300px;
+  border-radius: 12px;
+}
+.card-logo-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.card-company-logo {
+  height: 80px;
+  width: 80px;
+}
+.card-title-container {
+  margin-left: 10px;
+}
+.card-title {
+  font-size: 16px;
+}
+.card-rating-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.card-location-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.card-employment-type-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 5px;
+}
+.card-description-title {
+  font-size: 18px;
+}

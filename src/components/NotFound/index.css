@@ -1,0 +1,13 @@
+.not-found-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.page-not-found-title {
+  color: white;
+  font-family: Roboto;
+  font-size: 24px;
+}
